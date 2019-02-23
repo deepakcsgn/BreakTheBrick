@@ -1,0 +1,15 @@
+   *{
+                padding: 0;
+                margin: 0;
+               
+            }
+            canvas {
+                background-color: gainsboro;
+                display: block;
+              margin-top:30px;
+                margin-left:410px;
+                border-radius: 5px;
+                 -webkit-box-shadow: 9px 7px 19px 0px rgba(56, 50, 50, 0.8);
+            -moz-box-shadow:9px 7px 19px 0px rgba(56, 50, 50, 0.8);
+            box-shadow:9px 7px 19px 0px rgba(56, 50, 50, 0.8);
+            }
